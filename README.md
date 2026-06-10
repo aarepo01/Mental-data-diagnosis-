@@ -1,4 +1,4 @@
-# Mental-data-diagnosis-
+# MindScan: A Text Classification Tutorial for Mental Health Detection Using NLP and Machine Learning
 Social media has become part of day to day life of society. People share their thoughts, ideas and feelings in the virtual world, but can they also share symptoms of mental health issues without even knowing it? In this project our main goal is to find a way to detect signs of mental health issues using social media data and people's writing patterns.
 
 Mental health affects 1 in 8 people worldwide, yet many cases go undetected until it is too late. Early detection tools are still hard to access and expensive. This is where data science can make a real difference. By using data people already write publicly, we can build low-cost, scalable tools that flag potential mental health concerns early.
